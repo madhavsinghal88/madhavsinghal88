@@ -60,14 +60,14 @@ I'm a passionate backend developer who believes in crafting clean, efficient, an
 - ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 - ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
+
 ## 📊 GitHub Analytics
 
 <div align="center">
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=madhavsinghal88&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=madhavsinghal88&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=madhavsinghal88&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=madhavsinghal88&layout=compact&theme=tokyonight&hide_border=true" height="165" />
 </div>
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=madhavsinghal88&label=Profile%20Views&color=blueviolet&style=flat" />
