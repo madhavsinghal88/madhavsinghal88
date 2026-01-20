@@ -70,7 +70,7 @@ I'm a passionate backend developer who believes in crafting clean, efficient, an
 </div>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Madhavcode8&label=Profile%20Views&color=blueviolet&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=madhavsinghal88&label=Profile%20Views&color=blueviolet&style=flat" />
 </p>
 
 ## 🤝 Let's Connect
