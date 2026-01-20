@@ -64,9 +64,9 @@ I'm a passionate backend developer who believes in crafting clean, efficient, an
 
 <div align="center">
   
-  <img src="https://github-readme-stats.vercel.app/api?username=Madhavcode8&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=madhavsinghal88&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Madhavcode8&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=madhavsinghal88&layout=compact&theme=tokyonight&hide_border=true" />
 </div>
 
 <p align="center">
