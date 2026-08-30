@@ -65,17 +65,17 @@ I'm a passionate backend developer who believes in crafting clean, efficient, an
 
 <div align="center">
   <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=madhavsinghal88&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=madhavsinghal88&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
-</p>
-
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=madhavsinghal88&theme=tokyonight" height="180"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=madhavsinghal88&theme=tokyonight" height="180"/>
+  </p>
+  <p align="center">
+    <img src="https://streak-stats.demolab.com/?user=madhavsinghal88&theme=tokyonight&hide_border=true" height="180"/>
+  </p>
 </div>
-
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=madhavsinghal88&label=Profile%20Views&color=blueviolet&style=flat" />
 </p>
-
 ## 🤝 Let's Connect
 
 <div align="center">
